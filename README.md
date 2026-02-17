@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ •	Highly motivated with over a year of practical experience in building high-performance, scalable mobile applications using Flutter. <br>📚 I'm currently learning best practices in Flutter development and advanced concepts in mobile application architecture.<br>👨‍💻 Check out my work at My Repositories.<br>💬 Ask me about Flutter development, mobile app design, and AI-related topics.<br>📫 How to reach me: afraym100herz@gmail.com<br>📱 Phone: (+20) 1224394389</p>
+<p align="left">✨ •	Aspiring Flutter Mobile Developer passionate about building scalable cross-platform applications and continuously improving through real-world development experience. <br>📚 I'm currently learning best practices in Flutter development and advanced concepts in mobile application architecture.<br>👨‍💻 Check out my work at My Repositories.<br>💬 Ask me about Flutter development, mobile app design, and AI-related topics.<br>📫 How to reach me: afraym100herz@gmail.com<br>📱 Phone: (+20) 1224394389</p>
 
 ###
 
