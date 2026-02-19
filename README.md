@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Afraym Herz and I'm a Junior Flutter Developer</h3>
+<h3 align="left">My name is Afraym Herz and I'm a Aspiring Flutter Developer</h3>
 
 ###
 
